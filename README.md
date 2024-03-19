@@ -1,4 +1,4 @@
-### Install-ViciDial-using-ViciBox
+### Install ViciDial using ViciBox
 
 #### Download ViciBox: 
 https://download.vicidial.com/iso/vicibox/server/ViciBox_v11.x86_64-11.0.1.iso
